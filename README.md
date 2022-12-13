@@ -34,5 +34,15 @@
   <li>Open your browser and access localhost at port http://127.0.0.1:8000/</li>
 </ol>
 
-<h3>Contact</h3>
-<p>Email: dhruvshah221b@gmail.com</p>
+<h3>Contact :-</h3>
+
+<p>19012011075</p>
+<p>Dhruv M Shah</p>
+<p>CE AB9</p>
+<p>dhruvshah221b@gmail.com</p>
+
+<p>19012021024</p>				
+<p>Krishnarajsinh Jadeja</p>			
+<p>IT AB6</p>					
+<p>krishnaraj.sinh.jadeja10@gmail.com</p>
+
