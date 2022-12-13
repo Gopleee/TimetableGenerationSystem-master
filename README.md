@@ -1,6 +1,6 @@
 # Timetable Generation System
 
-<p> NOTE:- Tov view files of the entire project visit the below pasted link of my CP-III partner...
+<p> NOTE:- To view files of the entire project visit the below pasted link of my CP-III partner...</p>
 https://github.com/Krishnarajsinh-Jadeja/TimetableGenerationSystem-master
 
 <h3>Project Description</h3>
