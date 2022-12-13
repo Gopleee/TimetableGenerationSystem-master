@@ -37,12 +37,11 @@
 <h3>Contact :-</h3>
 
 19012011075                                                                    
-<p>Dhruv M Shah                               
-<p>CE AB9                                     
-<p>dhruvshah221b@gmail.com
+Dhruv M Shah                               
+CE AB9                                     
+dhruvshah221b@gmail.com
 
-<p>19012021024
-<p>Krishnarajsinh Jadeja		
-<p>IT AB6					
-<p>krishnaraj.sinh.jadeja10@gmail.com
-
+19012021024
+Krishnarajsinh Jadeja		
+IT AB6					
+krishnaraj.sinh.jadeja10@gmail.com
