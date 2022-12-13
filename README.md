@@ -13,7 +13,7 @@
   <li>Sections</li>
 </ol>
 
-<p>Upon                                  successfull entry of the data into sqlite database, the user can navigate to the "Generate Timetable" page to start the process of generating the timetable. Upon successfull generation of the timetable the user can download the timetable as a PDF.</p>   
+<p>Upon successfull entry of the data into sqlite database, the user can navigate to the "Generate Timetable" page to start the process of generating the timetable. Upon successfull generation of the timetable the user can download the timetable as a PDF.</p>   
 
 <p>Technologies Used:</p>
 <ul>
@@ -36,9 +36,13 @@
 
 <h3>Contact :-</h3>
 
-<p>19012011075                                   19012021024</p>                                   
-<p>Dhruv M Shah                                  Krishnarajsinh Jadeja
-<p>CE AB9                                        IT AB6
-<p>dhruvshah221b@gmail.com                       krishnaraj.sinh.jadeja10@gmail.com</p>
+19012011075                                                                    
+<p>Dhruv M Shah                               
+<p>CE AB9                                     
+<p>dhruvshah221b@gmail.com
 
+19012021024
+Krishnarajsinh Jadeja		
+IT AB6					
+krishnaraj.sinh.jadeja10@gmail.com
 
