@@ -36,13 +36,13 @@
 
 <h3>Contact :-</h3>
 
-<p>19012011075</p>
-<p>Dhruv M Shah</p>
-<p>CE AB9</p>
-<p>dhruvshah221b@gmail.com</p>
+<p>19012011075
+  Dhruv M Shah
+  CE AB9
+  dhruvshah221b@gmail.com</p>
 
-<p>19012021024</p>				
-<p>Krishnarajsinh Jadeja</p>			
-<p>IT AB6</p>					
-<p>krishnaraj.sinh.jadeja10@gmail.com</p>
+<p>19012021024
+  Krishnarajsinh Jadeja
+  IT AB6
+  krishnaraj.sinh.jadeja10@gmail.com</p>
 
